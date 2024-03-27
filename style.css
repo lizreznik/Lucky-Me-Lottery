@@ -24,3 +24,10 @@ p {
   -ms-transform: translateX(29%);
   transform: translateX(29%);
 }
+.form-control { 
+  font-family: "Josefin Slab", serif;
+}
+.list-group{ 
+  font-family: "Alegreya Sans SC", sans-serif;
+  text-transform: uppercase;
+}
